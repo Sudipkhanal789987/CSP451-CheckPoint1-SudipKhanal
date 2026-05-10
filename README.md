@@ -51,3 +51,4 @@ Use Conventional Commits:
 
 Copyright © 2026 Sudip Khanal
 This project follows Git best practices and Conventional Commits.
+This project demonstrates full Git workflow with multiple commits and conventional commit messages.
