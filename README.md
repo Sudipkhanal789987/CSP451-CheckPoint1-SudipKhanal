@@ -50,3 +50,4 @@ Use Conventional Commits:
 ## License
 
 Copyright © 2026 Sudip Khanal
+This project follows Git best practices and Conventional Commits.
