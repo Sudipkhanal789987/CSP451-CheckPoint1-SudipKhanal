@@ -25,3 +25,11 @@ main {
 p {
     font-size: 18px;
 }
+ul {
+    margin-left: 25px;
+    margin-bottom: 15px;
+}
+
+section {
+    margin-bottom: 25px;
+}
